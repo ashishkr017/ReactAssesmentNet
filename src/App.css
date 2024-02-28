@@ -1,0 +1,102 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.left-top img{
+  margin-left:  596px;
+  display: flex;
+  height: 100px;
+  width: 300px;
+ 
+
+}
+.right-top img{
+  margin-right: 100px;
+  width: 250px;
+}
+.left-bottom img{
+  width: 10px;
+}
+.left-top h5{
+  margin-left:  596px;
+  font-size: 15px;
+  
+  
+}
+
+.det{
+  padding-bottom: 10px;
+  margin-left:  650px;
+  margin-right: 100px;
+ 
+  font-size: 15px;
+}
+/* right-top{
+
+} */
+.right-top{
+  /* display: flex; */
+  margin-left:100px ;
+}
+.right-img{
+  height: 400px;
+}
+.right-top .space{
+  width: 700px;
+  margin-left:100px ;
+  
+
+}
+.lett{
+  font-size: 17px;
+  padding-left: 400px;
+}
+.middle{
+  display: flex;
+  padding-top: 5px;
+  font-size: 15px;
+  margin-right: 5px;
+  
+}
+.pump-img{
+  width: 1000px;
+  margin-left: 120px;
+  margin-right: 10px;
+}
+.below-img{
+  text-align: center;
+  font-size: 10px;
+}
+.below-img hr{
+  border: 2px solid red;
+  margin-left: 15px;
+  margin-right: 20px;
+}
+.below-img-text{
+  text-align: center;
+}
+.sectors p {
+ margin-left: 10px;
+ margin-right: 10px;
+}
+.sectors div{
+  text-align: center;
+}
+.footer{
+  border: 40px solid red;
+  display: flex;
+  background-color: red;
+}
+.footer div{
+
+  padding-left:90px;
+  padding-right: 100px;
+  margin: 0px;
+  display: flex;
+  background-color: red;
+  
+}
+.footer div a{
+  text-decoration: none;
+  color: black;
+}
